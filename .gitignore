@@ -1,0 +1,9 @@
+.Rhistory
+.RData
+.Rproj.user
+*.tex
+*.log
+*.aux
+*.out
+.DS_Store
+Thumbs.db
