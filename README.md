@@ -23,7 +23,7 @@
 
 ## Project Citation
 
-Sharma, Manoj, and Villoria, Nelson. "Data and Code for: Costly Regulation, Minimal Results: The EU's Deforestation Regulation Effect on Global Soy Trade." Unpublished Manuscript, Kansas State University, 2025.
+Sharma, Manoj, and Villoria, Nelson. "Data and Code for: Costly Regulation, Minimal Results: The EU's Deforestation Regulation Effect on Global Soy Trade." *European Review of Agricultural Economics* (forthcoming).
 
 ---
 
@@ -57,7 +57,7 @@ Panel data; International trade flows; Intra-national trade flows; Effectively a
 
 ## Related Publications
 
-*   Sharma, Manoj, and Villoria, Nelson. "Costly Regulation, Minimal Results: The EU's Deforestation Regulation Effect on Global Soy Trade." *Preprint*.
+*   Sharma, Manoj, and Villoria, Nelson. "Costly Regulation, Minimal Results: The EU's Deforestation Regulation Effect on Global Soy Trade." *European Review of Agricultural Economics* (forthcoming).
 
 ---
 
